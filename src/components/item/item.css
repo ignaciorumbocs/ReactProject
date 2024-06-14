@@ -1,0 +1,12 @@
+.item {
+  color: bisque;
+  border: 2px solid;
+  border-radius: 10px;
+  width: 600px;
+  height: 500px;
+}
+
+.item img {
+  width: 300px;
+  text-align: center;
+}
