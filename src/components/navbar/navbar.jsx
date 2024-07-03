@@ -7,16 +7,16 @@ const Navbar = () => {
       <Link to={'/'}>
       <h1>Key Bross</h1>
       </Link>
-      <Link to={'/category/Electronica'}>
+      <Link to={'/category/electronics'}>
       <p>Electronica</p>
       </Link>
-      <Link to={'/category/Joyeria'}>
+      <Link to={'/category/jewelery'}>
       <p>Joyeria</p>
       </Link>
-      <Link to={'/category/Ropa de hombre'}>
+      <Link to={'/category/men\'s clothing'}>
       <p>Ropa de hombre</p>
       </Link>
-      <Link to={'/category/Ropa de Mujer'}>
+      <Link to={'/category/women\'s clothing'}>
       <p>Ropa de Mujer</p>
       </Link>
 
